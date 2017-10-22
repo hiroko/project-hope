@@ -1,3 +1,13 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <i>- Lorem Ipsum</i>
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." <i>- Lorem Ipsum</i>
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, <br> totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. <i>- Lorem Ipsum</i>
+It's ok to be scared. To inform myself as much as possible.<br><small><i class="fa fa-heart fa-md fa-fw"></i> Ginger</small>
+Don't be scared. Everything is going to be ok.<br><small><i class="fa fa-heart fa-md fa-fw"></i> Danielle</small>
+REST!! <br><small><i class="fa fa-heart fa-md fa-fw"></i> Danielle</small>
+You get ups and downs, but you're strong, and you can overcome it!<br><small><i class="fa fa-heart fa-md fa-fw"></i> Debbie</small>
+Your world is not falling apart; it's falling <i>into</i> place.<br><small><i class="fa fa-heart fa-md fa-fw"></i> Mason</small>
+Know your condition inside out! Doctors are great, but they very often don't understand the details of your condition.  You need to make sure you don't slip through the cracks of the healthcare system, and make sure you get what you need.<br><small><i class="fa fa-heart fa-md fa-fw"></i> Kel</small>
+Hang on tight! You are in for a roller coaster ride of emotions! Find a support group, learn as much as you can and ask questions!!<br><small><i class="fa fa-heart fa-md fa-fw"></i> Jaclyn</small>
+Write everything down! Don't settle on one opinion, get multiple opinions before setting on a surgeon.  I'm glad we got the second opinion, and I believe it saved my son's life.<br><small><i class="fa fa-heart fa-md fa-fw"></i> Michelle</small>
+Life is a gift.<br><small><i class="fa fa-heart fa-md fa-fw"></i> Brian</small>
+Hang in there, you can overcome this!<br><small><i class="fa fa-heart fa-md fa-fw"></i> Sarah</small>
+It's possible to live a normal life with an AVM, and live in the present, but never stop trying to improve.<br><small><i class="fa fa-heart fa-md fa-fw"></i> Ann</small>
+Listen to your body, and keep pushing for answers.<br><small><i class="fa fa-heart fa-md fa-fw"></i> Mila</small>
+Do not let it define you.<br><small><i class="fa fa-heart fa-md fa-fw"></i> Melinda</small>

@@ -44,12 +44,19 @@
           </div>
         </div>
 
+        <div class="row justify-content-center" style="margin: 20px;">
+          <div class="col-sm-7 text-center">
+            <h2 style="font-family: Raleway; font-size: 33px; padding: 5px; background-color:#f2d7de; border-radius: 5px;">"What would you say to someone just diagnosed with AVM?"</h2>
+          </div>
+        </div>
+
         <div class="row justify-content-center">
           <div class="col-sm-6 text-center">
-            <blockquote style="background-color: #f2d7de; padding: 20px; margin: 10px; outline: 2px solid #f2d7de; outline-offset: 15px; outline-radius: 15px; border-radius: 15px;">
-              <h2 style="font-family: Raleway; font-size: 25px; padding: 15px;">
+
+            <blockquote style="background-color: #f2d7de; padding: 20px; margin: 10px; outline: 2px solid #f2d7de; outline-offset: 15px; border-radius: 15px;">
+              <h3 style="font-family: Raleway; font-size: 25px; padding: 15px;">
                 <?php text_randomizer(); ?>
-              </h2>
+              </h3>
             </blockquote>
             <p style="padding: 10px;"><small><i class="fa fa-angle-double-right fa-fw"></i><a href="index.php">Next</a></small></p>
           </div>
@@ -57,8 +64,8 @@
 
         <div class="row justify-content-center">
           <div class="col-sm-8 text-center">
-            <p>Support is available 24/7 from our <a href="http://facebook.com/avmalformation" target="_blank">Facebook Page</a> and <a href="" target="_blank">Online Support Group</a>. <br> You are not alone.  Please reach out to us, and we will do our best to help <i class="fa fa-heart fa-md fa-fw" alt="Love"></i><br>
-            Questions? You can contact us directly at <em>hi@burgundyforlife.org</em>.<br>
+            <p>Support is available 24/7 from our <a href="http://facebook.com/avmalformation" target="_blank">Facebook Page</a> and <a href="" target="_blank">Online Support Group</a>. <br> You are not alone.  Please reach out to us, and we will do our best to help <i class="fa fa-heart fa-md fa-fw"></i></p>
+            <p>Questions? You can contact us directly at <em>hi@burgundyforlife.org</em><br>
           <a href="https://twitter.com/hashtag/ProjectHopeAVM">#ProjectHopeAVM</a></p>
           </div>
         </div>
@@ -88,7 +95,7 @@
           <p><em><a href="http://hope.burgundyforlife.org">Project Hope</a></em> is part of <a href="http://burgundyforlife.org" target="_blank">Burgundy for Life</a>, created by <a href="http://hirokonishimura.com" target="_blank">Hiroko Nishimura</a> using HTML5, CSS3, Bootstrap, and PHP.<br>
           <em><a href="http://hope.burgundyforlife.org">hope.burgundyforlife.org</a></em><br>
           <small>10.22.2017</small></p>
-          <p><small><a href="https://affeli.us/" target="_blank">Text Randomizer Script</a> | <a href="https://vecteezy.com" target="_blank">Background Image</a></small>
+          <p><small><i class="fa fa-heart fa-md fa-fw"></i> <a href="https://affeli.us/" target="_blank">Text Randomizer Script</a> | <a href="https://vecteezy.com" target="_blank">Background Image</a></small>
         </div>
       </div>
 
