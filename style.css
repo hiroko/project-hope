@@ -1,0 +1,115 @@
+/* MAIN STUFF */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Raleway', Helvetica, sans-serif;
+  font-size: 15px;
+  color: #000000;
+  position: relative;
+  width: 100%;
+  background-image: url("bg.jpg");
+  background-repeat: repeat;
+  background-color: #f0abbd;
+}
+
+/* TEXT */
+p {
+  padding: 5px;
+  margin: 0px;
+  font-size: 16px;
+}
+
+p strong {
+  font-size: 18px;
+}
+
+p em {
+  font-size: 17px;
+}
+
+em {
+  color: #495057;
+}
+
+/* LINKS */
+a, a:visited {
+  color: #d41041;
+}
+
+a:hover {
+  color: #f0abbd;
+}
+
+
+/* CONTENT */
+#content {
+  display: inline-block;
+  margin: 0px;
+  background: #FFFFFF;
+  color: #000000;
+  padding: 20px 0px;
+  position: relative;
+  vertical-align: top;
+  width: 100%;
+}
+
+#top {
+  display: inline-block;
+  margin: 0px;
+  background: #FFFFFF;
+  color: #000000;
+  padding: 20px 0px;
+  position: relative;
+  vertical-align: top;
+  width: 100%;
+}
+
+#SNS {
+  font-family: 'Raleway', Helvetica, sans-serif;
+  font-size: 14px;
+  display: inline-block;
+  margin: 0px;
+  background: #FFFFFF;
+  color: #d41041;
+  padding: 20px 0px;
+  position: relative;
+  vertical-align: top;
+  width: 100%;
+}
+
+#footer {
+  display: inline-block;
+  margin: 0px;
+  background: #FFFFFF;
+  color: #000000;
+  padding: 20px 0px;
+  vertical-align: top;
+  width: 100%;
+}
+
+#footer p {
+  font-size: 12px;
+}
+
+/* IMAGE EFFECTS */
+#circle {
+  padding: 0px;
+  margin: 0px;
+  border-style: solid;
+  border-color: #FFFFFF;
+  border-width: 10px;
+  border-radius: 100px;
+}
+
+#img {
+  padding: 0px;
+  margin: 0px;
+  border-style: solid;
+  border-color: #F0F0F0;
+  border-width: 10px;
+  border-radius: 30px;
+  width: 300px;
+}
