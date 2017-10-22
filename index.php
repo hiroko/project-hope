@@ -46,7 +46,7 @@
 
         <div class="row justify-content-center" style="margin: 20px;">
           <div class="col-sm-7 text-center">
-            <h2 style="font-family: Raleway; font-size: 33px; padding: 5px; background-color:#f2d7de; border-radius: 5px;">"What would you say to someone just diagnosed with AVM?"</h2>
+            <h2 style="font-family: Raleway; font-size: 33px; padding: 5px; background-color:#f2d7de; border-radius: 5px;">"What would you say to someone just diagnosed with Vascular Malformation?"</h2>
           </div>
         </div>
 
