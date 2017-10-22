@@ -19,15 +19,7 @@ body {
 p {
   padding: 5px;
   margin: 0px;
-  font-size: 16px;
-}
-
-p strong {
-  font-size: 18px;
-}
-
-p em {
-  font-size: 17px;
+  font-size: 15px;
 }
 
 em {
@@ -50,7 +42,7 @@ a:hover {
   margin: 0px;
   background: #FFFFFF;
   color: #000000;
-  padding: 20px 0px;
+  padding: 10px 0px;
   position: relative;
   vertical-align: top;
   width: 100%;
@@ -69,7 +61,7 @@ a:hover {
 
 #SNS {
   font-family: 'Raleway', Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: 13px;
   display: inline-block;
   margin: 0px;
   background: #FFFFFF;
@@ -85,8 +77,8 @@ a:hover {
   margin: 0px;
   background: #FFFFFF;
   color: #000000;
-  padding: 20px 0px;
-  vertical-align: top;
+  padding: 20px 0px 0px 0px;
+  vertical-align: bottom;
   width: 100%;
 }
 
