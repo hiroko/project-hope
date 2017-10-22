@@ -27,19 +27,19 @@
   <body>
 <div class="container-fluid">
   <div class="row justify-content-center">
-    <div class="col-sm-6" id="content">
+    <div class="col-sm-8" id="content">
 
       <div class="container-fluid" id="top">
         <div class="row justify-content-center">
           <div class="col-sm-8 text-center">
 
-          <h1 style="font-family: satisfy; font-size: 85px; padding: 15px;">Project Hope</h1>
-          <h2 style="font-family: Raleway; font-size: 20px; padding: 0px;"><em><a href="http://hope.burgundyforlife.org">hope.burgundyforlife.org</a></em></h2>
-            <p>Feeling alone after a diagnosis of vascular malformation, stroke, brain injury, or treatment?<br>
+          <h1 style="font-family: satisfy; font-size: 85px; padding-top: 15px;">Project Hope</h1>
+          <h2 style="font-family: Raleway; font-size: 20px; padding-top: 5px;"><em><a href="http://hope.burgundyforlife.org">hope.burgundyforlife.org</a></em></h2>
+            <p>Feeling alone after diagnosis of vascular malformation, stroke, brain injury, or treatment?<br>
             <em>Project Hope</em> publishes real advice from those who have stepped through the same paths of uncertainly you are walking.</p>
-            <p><em>Project Hope</em> curates voices from survivors and family members who took time to fill out a survey by <a href="http://burgundyforlife.org" target="_blank">Burgundy for Life</a> for #AVMAwarenessMonth in October, 2017.</p>
-            <p>Refresh the page to "rotate" through the advices fellow survivors and their loved ones have provided.<br>
-            <small>No quote showing? Simply Refresh, or click "<a href="index.php">Next</a>.</small></p>
+            <p>We curated voices from survivors and family members who took time to fill out a survey by <a href="http://burgundyforlife.org" target="_blank">Burgundy for Life</a> for <em>#AVMAwarenessMonth</em> in October, 2017.</p>
+            <p>Refresh the page to "rotate" through advices from fellow survivors and their loved ones.<br>
+            <small>No quote showing? Refresh, or click "<a href="index.php">Next</a>."</small></p>
 
           </div>
         </div>
@@ -55,28 +55,39 @@
           </div>
         </div>
 
-        <!-- SNS -->
-            <section id="SNS">
-              <div class="container-fluid"><!-- container-fluid -->
-                <div class="row justify-content-center"><!-- row -->
-                  <div class="col-sm-3 text-center"><!-- col -->
-                    <i class="fa fa-facebook-official fa-lg fa-fw"></i>&nbsp; <a href="http://facebook.com/avmalformation" target="_blank">/avmalformation</a>
-                  </div><!-- /col -->
-                  <div class="col-sm-3 text-center"><!-- col -->
-                    <i class="fa fa-twitter fa-lg fa-fw"></i>&nbsp; <a href="http://twitter.com/avmalformation" target="_blank">@avmalformation</a>
-                  </div><!-- /col -->
+        <div class="row justify-content-center">
+          <div class="col-sm-8 text-center">
+            <p>Support is available 24/7 from our <a href="http://facebook.com/avmalformation" target="_blank">Facebook Page</a> and <a href="" target="_blank">Online Support Group</a>. <br> You are not alone.  Please reach out to us, and we will do our best to help <i class="fa fa-heart fa-md fa-fw" alt="Love"></i><br>
+            Questions? You can contact us directly at <em>hi@burgundyforlife.org</em>.<br>
+          <a href="https://twitter.com/hashtag/ProjectHopeAVM">#ProjectHopeAVM</a></p>
+          </div>
+        </div>
 
-                  <div class="col-sm-3 text-center"><!-- col -->
-                    <i class="fa fa-envelope fa-lg fa-fw"></i>&nbsp; <a href="mailto:hi@burgundyforlife.org">hi@burgundyforlife.org</a>
-                  </div><!-- /col -->
-                </div><!-- /row -->
-              </div><!-- /container-fluid -->
-          </section>
-          <!-- /SNS -->
+        <div class="row justify-content-center" id="SNS"><!-- row -->
+          <div class="col-sm-12">
+            <div class="row justify-content-center">
+          <div class="col-sm-2 text-center"><!-- col -->
+            <i class="fa fa-globe fa-lg fa-fw"></i>&nbsp; <a href="http://burgundyforlife.org" target="_blank">burgundyforlife.org</a>
+          </div><!-- /col -->
+          <div class="col-sm-2 text-center"><!-- col -->
+            <i class="fa fa-facebook-official fa-lg fa-fw"></i>&nbsp; <a href="http://facebook.com/avmalformation" target="_blank">/avmalformation</a>
+          </div><!-- /col -->
+          <div class="col-sm-2 text-center"><!-- col -->
+            <i class="fa fa-twitter fa-lg fa-fw"></i>&nbsp; <a href="http://twitter.com/avmalformation" target="_blank">@avmalformation</a>
+          </div><!-- /col -->
+
+          <div class="col-sm-2 text-center"><!-- col -->
+            <i class="fa fa-envelope fa-lg fa-fw"></i>&nbsp; <a href="mailto:hi@burgundyforlife.org">hi@burgundyforlife.org</a>
+          </div><!-- /col -->
+        </div><!-- /row -->
+      </div>
+    </div>
 
       <div class="row justify-content-center" id="footer">
         <div class="col-sm-12 text-center">
-          <p><i>Project Hope</i> is part of <a href="http://burgundyforlife.org" target="_blank">Burgundy for Life</a>, created by <a href="http://hirokonishimura.com" target="_blank">Hiroko Nishimura</a> using HTML5, CSS3, Bootstrap, and PHP.</p>
+          <p><em><a href="http://hope.burgundyforlife.org">Project Hope</a></em> is part of <a href="http://burgundyforlife.org" target="_blank">Burgundy for Life</a>, created by <a href="http://hirokonishimura.com" target="_blank">Hiroko Nishimura</a> using HTML5, CSS3, Bootstrap, and PHP.<br>
+          <em><a href="http://hope.burgundyforlife.org">hope.burgundyforlife.org</a></em><br>
+          <small>10.22.2017</small></p>
           <p><small><a href="https://affeli.us/" target="_blank">Text Randomizer Script</a> | <a href="https://vecteezy.com" target="_blank">Background Image</a></small>
         </div>
       </div>

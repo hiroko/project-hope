@@ -15,7 +15,6 @@ body {
   background-color: #f0abbd;
 }
 
-/* TEXT */
 p {
   padding: 5px;
   margin: 0px;
@@ -26,7 +25,6 @@ em {
   color: #495057;
 }
 
-/* LINKS */
 a, a:visited {
   color: #d41041;
 }
@@ -35,8 +33,6 @@ a:hover {
   color: #f0abbd;
 }
 
-
-/* CONTENT */
 #content {
   display: inline-block;
   margin: 0px;
@@ -86,7 +82,6 @@ a:hover {
   font-size: 12px;
 }
 
-/* IMAGE EFFECTS */
 #circle {
   padding: 0px;
   margin: 0px;
