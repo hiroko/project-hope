@@ -38,7 +38,7 @@
             <p>Feeling alone after diagnosis of vascular malformation, stroke, brain injury, or treatment?<br>
             <em>Project Hope</em> publishes real advice from those who have stepped through the same paths of uncertainly you are walking.</p>
             <p>We curated voices from survivors and family members who took time to fill out a survey by <a href="http://burgundyforlife.org" target="_blank">Burgundy for Life</a> for <em>#AVMAwarenessMonth</em> in October, 2017.</p>
-            <p>Refresh the page to "rotate" through advices from fellow survivors and their loved ones.<br>
+            <p>Refresh the page to "rotate" through the messages from fellow survivors and their loved ones.<br>
             <small>No quote showing? Refresh, or click "<a href="index.php">Next</a>."</small></p>
 
           </div>
