@@ -34,10 +34,12 @@
           <div class="col-sm-8 text-center">
 
           <h1 style="font-family: satisfy; font-size: 85px; padding: 15px;">Project Hope</h1>
+          <h2 style="font-family: Raleway; font-size: 20px; padding: 0px;"><em><a href="http://hope.burgundyforlife.org">hope.burgundyforlife.org</a></em></h2>
             <p>Feeling alone after a diagnosis of vascular malformation, stroke, brain injury, or treatment?<br>
             <em>Project Hope</em> publishes real advice from those who have stepped through the same paths of uncertainly you are walking.</p>
             <p><em>Project Hope</em> curates voices from survivors and family members who took time to fill out a survey by <a href="http://burgundyforlife.org" target="_blank">Burgundy for Life</a> for #AVMAwarenessMonth in October, 2017.</p>
-            <p>Refresh the page to "rotate" through the advices fellow survivors and their loved ones have provided.</p>
+            <p>Refresh the page to "rotate" through the advices fellow survivors and their loved ones have provided.<br>
+            <small>No quote showing? Simply Refresh, or click "<a href="index.php">Next</a>.</small></p>
 
           </div>
         </div>
@@ -74,7 +76,8 @@
 
       <div class="row justify-content-center" id="footer">
         <div class="col-sm-12 text-center">
-            <p><small><a href="https://affeli.us/" target="_blank">Text Randomizer Script</a> | <a href="https://vecteezy.com" target="_blank">Background Image</a></small>
+          <p><i>Project Hope</i> is part of <a href="http://burgundyforlife.org" target="_blank">Burgundy for Life</a>, created by <a href="http://hirokonishimura.com" target="_blank">Hiroko Nishimura</a> using HTML5, CSS3, Bootstrap, and PHP.</p>
+          <p><small><a href="https://affeli.us/" target="_blank">Text Randomizer Script</a> | <a href="https://vecteezy.com" target="_blank">Background Image</a></small>
         </div>
       </div>
 
