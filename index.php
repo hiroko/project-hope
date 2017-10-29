@@ -92,7 +92,7 @@
 
       <div class="row justify-content-center" id="footer">
         <div class="col-sm-12 text-center">
-          <p><em><a href="http://hope.burgundyforlife.org">Project Hope</a></em> is part of <a href="http://burgundyforlife.org" target="_blank">Burgundy for Life</a>, created by <a href="http://hirokonishimura.com" target="_blank">Hiroko Nishimura</a> using HTML5, CSS3, Bootstrap, and PHP.<br>
+          <p><em><a href="http://hope.burgundyforlife.org">Project Hope</a></em> is part of <a href="http://burgundyforlife.org" target="_blank">Burgundy for Life</a>, created by <a href="http://hiroko.io" target="_blank">Hiroko Nishimura</a> using HTML5, CSS3, Bootstrap, and PHP.<br>
           <em><a href="http://hope.burgundyforlife.org">hope.burgundyforlife.org</a></em><br>
           <small>10.22.2017</small></p>
           <p><small><i class="fa fa-heart fa-md fa-fw"></i> <a href="https://affeli.us/" target="_blank">Text Randomizer Script</a> | <a href="https://vecteezy.com" target="_blank">Background Image</a></small>
