@@ -74,17 +74,17 @@
           <div class="col-sm-12">
             <div class="row justify-content-center">
           <div class="col-sm-2 text-center"><!-- col -->
-            <i class="fa fa-globe fa-lg fa-fw"></i>&nbsp; <a href="http://burgundyforlife.org" target="_blank">burgundyforlife.org</a>
+            <i class="fa fa-globe fa-lg fa-fw"></i><br> <a href="http://burgundyforlife.org" target="_blank">burgundyforlife.org</a>
           </div><!-- /col -->
           <div class="col-sm-2 text-center"><!-- col -->
-            <i class="fa fa-facebook-official fa-lg fa-fw"></i>&nbsp; <a href="http://facebook.com/avmalformation" target="_blank">/avmalformation</a>
+            <i class="fa fa-facebook-official fa-lg fa-fw"></i><br> <a href="http://facebook.com/burgundyforlife" target="_blank">/burgundyforlife</a>
           </div><!-- /col -->
           <div class="col-sm-2 text-center"><!-- col -->
-            <i class="fa fa-twitter fa-lg fa-fw"></i>&nbsp; <a href="http://twitter.com/avmalformation" target="_blank">@avmalformation</a>
+            <i class="fa fa-twitter fa-lg fa-fw"></i><br> <a href="http://twitter.com/burgundyforlife" target="_blank">@burgundyforlife</a>
           </div><!-- /col -->
 
           <div class="col-sm-2 text-center"><!-- col -->
-            <i class="fa fa-envelope fa-lg fa-fw"></i>&nbsp; <a href="mailto:hi@burgundyforlife.org">hi@burgundyforlife.org</a>
+            <i class="fa fa-envelope fa-lg fa-fw"></i><br> <a href="mailto:hi@burgundyforlife.org">hi@burgundyforlife.org</a>
           </div><!-- /col -->
         </div><!-- /row -->
       </div>
